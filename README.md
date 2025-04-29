@@ -24,9 +24,9 @@ A Postman-based API testing project for Restful Booker API, built for portfolio 
 
 ## 🔧 Tech Stack
 
-Tool: Postman
-Language: JavaScript (Tests & Pre-request Scripts)
-Variables Used: Collection Variables & Random Data Generators
+- **Tool**: Postman
+- **Language**: JavaScript (Tests & Pre-request Scripts)
+- **Variables Used**: Collection Variables & Random Data Generators
 
 ---
 
